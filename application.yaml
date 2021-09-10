@@ -1,1 +1,3 @@
+server:
+  port: 8116
 kafkaserver: localhost:9002
